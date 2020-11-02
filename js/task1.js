@@ -36,3 +36,5 @@ const list = xmlDOM.querySelector('list'),
     for (let i = 0; i < students.length; i++) {
         result.list.push({name : `${nameFirst[i].textContent} ${nameSecond[i].textContent}`, age : Number(`${age[i].textContent}`), prof : `${prof[i].textContent}`, lang : `${name[i].getAttribute('lang')}`})
     }
+
+    console.log(result)
