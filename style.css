@@ -1,0 +1,17 @@
+.result {
+width: 300px;
+height: auto;
+margin: 50px auto 0;
+
+}
+.val {
+margin-top: 20px;
+display: flex;
+font-size: 18px;
+flex-wrap: wrap;
+text-align: center;
+}
+.label, .data {
+border: 2px black solid;
+width: 60px;
+} 
