@@ -21,3 +21,18 @@ width: 60px;
     border-radius: 15px;
     background-color: beige;
 }
+
+.todos {
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+}
+
+.through {
+    text-decoration: line-through;
+}
