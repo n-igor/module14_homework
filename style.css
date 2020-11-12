@@ -36,3 +36,27 @@ ul {
 .through {
     text-decoration: line-through;
 }
+
+.final {
+    text-align: center;
+    width: 440px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.message {
+    margin-top: 5px;
+    color: red;
+}
+
+.img {
+    margin: 0 auto;
+    display: block;
+    width: 500px;
+    margin: 5px;
+}
+
+.images {
+    width: 520px;
+    margin: 0 auto;
+}
